@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+
+.main {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 10px;
+  padding: 10px
+}
+
+.nav-tab {
+  background-color: #FCFCFC;
+}
+
+.nav-pills .nav-link{
+  background-color: #D3D4D5;
+}
+
+.tab-content {
+  border: 2px solid #ddd;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.inputSection .btn.btn-primary:active {
+  background-color: rgb(73, 73, 251);
+  color: black;
+}
+
+.inputSection .btn.btn-danger:active {
+  background-color: rgb(248, 68, 68);
+  color: black;
+}
+
+.result{
+  background-color: #e2e7fb;
+}
